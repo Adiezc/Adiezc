@@ -1,6 +1,6 @@
 # Adrian Diez Cuadrado
 
-Founder of [Neo Institute Europa](https://neoinstituteeuropa.org). Policy analyst and researcher
+Founder and Project Lead of [Neo Institute Europa](https://neoinstituteeuropa.org). Policy analyst and researcher
 with a project management background.
 
 **Open to work.** The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/adriandiez10/).
