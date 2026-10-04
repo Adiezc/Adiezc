@@ -9,7 +9,7 @@ with a project management background. I also build open-source tools with AI cod
 
 **[Agentic Grove](https://github.com/Adiezc/agentic-grove)** · [download for Mac](https://github.com/Adiezc/agentic-grove/releases/latest)\
 A calm desktop cockpit for AI agents. Your projects stand as runestones, your agents live in a
-world tree, and amber light means something needs you. TypeScript, Electron and Three.js; runs
+world tree and amber light means something needs you. TypeScript, Electron and Three.js; runs
 locally, no telemetry.
 
 **[How the European Parliament votes on China](https://github.com/Adiezc/ep-china-votes)**\
