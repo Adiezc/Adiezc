@@ -21,6 +21,11 @@ Python, with a thirteen-slide briefing.
 An agent-based simulation of a Florida harvester ant colony, built from the published science.
 Every number in the model says which study it came from. TypeScript, runs in the browser.
 
+**[Raid the Watchtower](https://github.com/Adiezc/raid-the-watchtower)** · [v1.0.0 release](https://github.com/Adiezc/raid-the-watchtower/releases/tag/v1.0.0)\
+An AI red/blue agent swarm, directed by a human, that studies six security threats
+(BOLA, phishing, trojans, worms, DDoS, prompt injection) inside a fictional story.
+Runnable local lab, Python standard library, all data synthetic.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/adriandiez10/) ·
