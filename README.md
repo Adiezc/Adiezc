@@ -26,6 +26,12 @@ An AI red/blue agent swarm, directed by a human, that studies six security threa
 (BOLA, phishing, trojans, worms, DDoS, prompt injection) inside a fictional story.
 Runnable local lab, Python standard library, all data synthetic.
 
+## Contributions
+
+**[pyOpenSci Python Packaging Guide](https://github.com/pyOpenSci/python-package-guide)** · [merged contribution](https://github.com/pyOpenSci/python-package-guide/pull/822)\
+Completed and reviewed the Spanish landing-page translation, corrected outdated wording
+and fixed tutorial and community links. Merged on 13 October 2026.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/adriandiez10/) ·
