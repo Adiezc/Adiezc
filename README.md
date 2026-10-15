@@ -28,9 +28,13 @@ Runnable local lab, Python standard library, all data synthetic.
 
 ## Contributions
 
+**[Beyond All Reason](https://github.com/beyond-all-reason/Beyond-All-Reason)** · [merged contribution](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/9643)\
+Clarified the Windows and Linux development-copy paths in the quick start guide of this
+open-source real-time strategy game, applying a maintainer's review suggestion.
+
 **[pyOpenSci Python Packaging Guide](https://github.com/pyOpenSci/python-package-guide)** · [merged contribution](https://github.com/pyOpenSci/python-package-guide/pull/822)\
 Completed and reviewed the Spanish landing-page translation, corrected outdated wording
-and fixed tutorial and community links. Merged on 13 October 2026.
+and fixed tutorial and community links.
 
 ## Elsewhere
 
