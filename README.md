@@ -3,7 +3,7 @@
 Founder and Project Lead of [Neo Institute Europa](https://neoinstituteeuropa.org). Policy analyst and researcher
 with a project management background. I also build open-source tools with AI coding agents.
 
-**Open to work.** The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/adriandiez10/).
+The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/adriandiez10/).
 
 ## Projects
 
@@ -16,6 +16,12 @@ locally, no telemetry.
 Every roll-call vote on China, Hong Kong and Taiwan since 2019: 179 votes, 126,672 MEP votes.
 The Parliament's China consensus did not soften after the 2024 election. It was outvoted.
 Python, with a thirteen-slide briefing.
+
+**[QUESTLESS](https://github.com/Adiezc/questless)**\
+An engine where MMO quests come from a simulated economy, and every quest can prove why it exists.
+Plus an open blueprint for the next generation of MMOs: courts, elections, diplomacy, fair
+automation instead of bots, and real-world skills taught through play. Python, MIT, open to
+contributors.
 
 **[Anthill](https://github.com/Adiezc/ANThill-Sim)** · [try it live](https://adiezc.github.io/ANThill-Sim/)\
 An agent-based simulation of a Florida harvester ant colony, built from the published science.
