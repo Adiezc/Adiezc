@@ -17,7 +17,7 @@ Every roll-call vote on China, Hong Kong and Taiwan since 2019: 179 votes, 126,6
 The Parliament's China consensus did not soften after the 2024 election. It was outvoted.
 Python, with a thirteen-slide briefing.
 
-**[QUESTLESS](https://github.com/Adiezc/questless)**\
+**[Questless](https://github.com/Adiezc/questless)**\
 An engine where MMO quests come from a simulated economy, and every quest can prove why it exists.
 Plus an open blueprint for the next generation of MMOs: courts, elections, diplomacy, fair
 automation instead of bots, and real-world skills taught through play. Python, MIT, open to
