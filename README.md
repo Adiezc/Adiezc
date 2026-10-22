@@ -32,6 +32,11 @@ An AI red/blue agent swarm, directed by a human, that studies six security threa
 (BOLA, phishing, trojans, worms, DDoS, prompt injection) inside a fictional story.
 Runnable local lab, Python standard library, all data synthetic.
 
+**[Crab Farm](https://github.com/Adiezc/crab-farm)**\
+A small one, built in an evening: a pixel farm in a side pane of Claude Code. Every task gets
+its own crab-Claude on its own plot, and its subagents are the helpers. Art from [clodfarm](https://github.com/matank001/clodfarm);
+TypeScript, MIT, no model calls.
+
 ## Contributions
 
 **[Beyond All Reason](https://github.com/beyond-all-reason/Beyond-All-Reason)** · [merged contribution](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/9643)\
