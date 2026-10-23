@@ -19,8 +19,8 @@ Python, with a thirteen-slide briefing.
 
 **[Questless](https://github.com/Adiezc/questless)**\
 An engine where MMO quests come from a simulated economy, and every quest can prove why it exists.
-Plus an open blueprint for the next generation of MMOs: courts, elections, diplomacy, fair
-automation instead of bots, and real-world skills taught through play. Python, MIT, open to
+Plus an open blueprint for the next generation of MMOs: Courts, elections, diplomacy, fair
+automation instead of bots and real-world skills taught through play. Python, MIT, open to
 contributors.
 
 **[Anthill](https://github.com/Adiezc/ANThill-Sim)** · [try it live](https://adiezc.github.io/ANThill-Sim/)\
