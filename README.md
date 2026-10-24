@@ -39,6 +39,10 @@ TypeScript, MIT, no model calls.
 
 ## Contributions
 
+**[Bot Crossing](https://github.com/Station-Sciences/bot-crossing)** · [merged contribution](https://github.com/Station-Sciences/bot-crossing/pull/93)\
+Stopped old errors from keeping a bot stuck on red status forever in this open-source
+colony of coding-agent threads, so an errored thread falls asleep after three quiet days.
+
 **[Beyond All Reason](https://github.com/beyond-all-reason/Beyond-All-Reason)** · [merged contribution](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/9643)\
 Clarified the Windows and Linux development-copy paths in the quick start guide of this
 open-source real-time strategy game, applying a maintainer's review suggestion.
