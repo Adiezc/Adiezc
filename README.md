@@ -39,6 +39,10 @@ TypeScript, MIT, no model calls.
 
 ## Contributions
 
+**[Odysseus](https://github.com/odysseus-dev/odysseus)** · [merged contribution](https://github.com/odysseus-dev/odysseus/pull/6513)\
+Made the animated themes smoother and lighter in this self-hosted AI workspace, so
+the background effects keep a steady pace on any screen and use less processing power.
+
 **[Bot Crossing](https://github.com/Station-Sciences/bot-crossing)** · [merged contribution](https://github.com/Station-Sciences/bot-crossing/pull/93)\
 Stopped old errors from keeping a bot stuck on red status forever in this open-source
 colony of coding-agent threads, so an errored thread falls asleep after three quiet days.
