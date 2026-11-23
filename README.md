@@ -55,6 +55,12 @@ open-source real-time strategy game, applying a maintainer's review suggestion.
 Completed and reviewed the Spanish landing-page translation, corrected outdated wording
 and fixed tutorial and community links.
 
+## Hackathons
+
+**Hack the Rails** · team NightFlow · Brussels, November 2026\
+2nd place overall and winner of the Aikido Cybersecurity prize at a one-day hackathon
+on European night trains.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/adriandiez10/) ·
